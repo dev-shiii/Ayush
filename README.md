@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Portfolio
-🔗 https://ayush-portfolio-git-main-ayushs-projects-7c0b66d7.vercel.app/......ayush
+🔗 https://ayush-portfolio-git-main-ayushs.vercel.app/......ayush
 
 ---
 
