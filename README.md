@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Portfolio
-🔗 https://ayush-portfolio-git-main-ayushs-projects-7c0b66d7.vercel.app/
+🔗 https://ayush-portfolio-git-main-ayushs-projects-7c0b66d7.vercel.app/......ayush
 
 ---
 
@@ -46,7 +46,7 @@
 ---
 
 ### 🌐 Gradial  
-🔗 https://github.com/dev-shiii  
+🔗 https://www.gradial.com/
 
 - Full-stack app using **React, TypeScript, Contentful CMS**  
 - GraphQL APIs + scalable content system  
@@ -54,7 +54,7 @@
 ---
 
 ### 📱 Popup Audio  
-🔗 https://github.com/dev-shiii  
+🔗 https://apps.apple.com/au/app/popup-audio/id1601759961  
 
 - React Native audio sharing app  
 - Integrated **Agora APIs, Firebase, Stripe**  
@@ -62,7 +62,7 @@
 ---
 
 ### 🚗 Montreal Tires  
-🔗 https://github.com/dev-shiii  
+🔗 https://montrealtire.us/  
 
 - Built using **Next.js**  
 - Advanced filtering + responsive UI  
