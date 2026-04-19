@@ -67,19 +67,7 @@
 - Built using **Next.js**  
 - Advanced filtering + responsive UI  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-shiii&show_icons=true&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shiii&theme=tokyonight&border_radius=10" />
-</p>
-
----
 
 ## 🧩 Cool Stuff
 
